@@ -72,7 +72,7 @@ Join_HDI_2 <- World %>%
 
 # Problems 
 
-* With Join_HDI there are 11 rows for Antarctica if using aff_iso - be sure to use iso column or remove the NA values as in the aff_iso antartica is NA
+* With Join_HDI there are 11 rows for Antarctica if using aff_iso - be sure to use iso column or remove the NA values as in the aff_iso Antarctica is NA
 * With Join_HDI_2 the entries for other islands aren't joined as they don't have the same name...e.g. France, French Guiana, French Southern Territories.....
 
 ```{r}
